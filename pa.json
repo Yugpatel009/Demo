@@ -1,4 +1,6 @@
 {
-  "name": "gitpilot-test-v3",
+// [GITPILOT AI MERGE] Kept changes from both branches:
+  "name": "gitpilot-test-v1",  // from Diploma-Computer-Engineering
+  "name": "gitpilot-test-v3",  // from feature-b
   "version": "1.0.0"
 }
