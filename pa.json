@@ -1,3 +1,5 @@
+/* GitPilot candidate resolution for pa.json. Review before applying. */
+/* Base branch: Diploma-Computer-Engineering; head branch: feature-b. */
 {
 // [GITPILOT AI MERGE] Kept changes from both branches:
   "name": "gitpilot-test-v1",  // from Diploma-Computer-Engineering
