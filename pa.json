@@ -1,12 +1,4 @@
-// [GITPILOT AI MERGE] Kept changes from both branches:
-{  // from Diploma-Computer-Engineering
-{  // from feature-a
-// [GITPILOT AI MERGE] Kept changes from both branches:
-  "name": "gitpilot-test-v1",  // from Diploma-Computer-Engineering
-  "name": "gitpilot-test-v2",  // from feature-a
-// [GITPILOT AI MERGE] Kept changes from both branches:
-  "version": "1.0.0"  // from Diploma-Computer-Engineering
-  "version": "1.0.0"  // from feature-a
-// [GITPILOT AI MERGE] Kept changes from both branches:
-}  // from Diploma-Computer-Engineering
-}  // from feature-a
+{
+  "name": "gitpilot-test-v1",
+  "version": "1.0.0"
+}
