@@ -1,25 +1,4 @@
-<<<<<<< Diploma-Computer-Engineering
-=======
-/* GitPilot candidate resolution for pa.json. Review before applying. */
-/* Base branch: Diploma-Computer-Engineering; head branch: feature-b. */
->>>>>>> feature-b
 {
-<<<<<<< Diploma-Computer-Engineering
-  "name": "gitpilot-test-v1",
-  "version": "1.0.0"
+  "name": "gitpilot-test-v3",
+  "version": "2.0.0"
 }
-=======
-// [GITPILOT AI MERGE] Kept changes from both branches:
-  "name": "gitpilot-test-v1",  // from Diploma-Computer-Engineering
-// [GITPILOT AI MERGE] Kept changes from both branches:  // from feature-b
-// [GITPILOT AI MERGE] Kept changes from both branches:
-  "version": "1.0.0"  // from Diploma-Computer-Engineering
-  "name": "gitpilot-test-v1",  // from Diploma-Computer-Engineering  // from feature-b
-// [GITPILOT AI MERGE] Kept changes from both branches:
-}  // from Diploma-Computer-Engineering
-  "name": "gitpilot-test-v3",  // from feature-b  // from feature-b
-// [GITPILOT AI MERGE] Kept changes from both branches:
-  "version": "1.0.0"  // from feature-b
-// [GITPILOT AI MERGE] Kept changes from both branches:
-}  // from feature-b
->>>>>>> feature-b
